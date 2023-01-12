@@ -22,7 +22,7 @@ Good First Issue Finder helps new open source contributors pave their path into 
 
 ## 👨‍💻 Live Version
 
-Check out the website: [Good First Issue Finder](https://finder.eddiehub.io){:target="_blank"}
+Check out the website: [Good First Issue Finder](https://finder.eddiehub.io)
 
 ## 👇 Prerequisites
 
